@@ -153,13 +153,13 @@ export const Agency: React.FC = () => {
                   
                   <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
                       <a 
-                          href="mailto:kubemedia00@gmail.com" 
+                          href="https://kubemedia.vercel.app/" 
                           className="bg-[#38b6ff] text-black px-8 py-4 font-black uppercase tracking-widest text-xs hover:bg-white transition-colors rounded-sm flex items-center justify-center gap-2"
                       >
                           Get Started <ArrowUpRight size={16} />
                       </a>
                       <a 
-                          href="https://www.instagram.com/kubemediaproductions" 
+                          href="https://kubemedia.vercel.app/" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="border border-white/20 text-white px-8 py-4 font-black uppercase tracking-widest text-xs hover:bg-white/10 transition-colors rounded-sm flex items-center justify-center gap-2"
